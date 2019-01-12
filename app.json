@@ -2,7 +2,6 @@
   "name": "nonprofit-email-service",
   "description": "A cost effective, open source solution to sending mass emails",
   "repository": "https://github.com/irshad-rainfund/mail-for-good",
-  "logo": "https://avatars2.githubusercontent.com/u/5217007?v=3&u=52845c74db401e9fc5df5673460f4d6835a6118a&s=200",
   "keywords": ["node", "express", "parse", "dashboard"],
   "env": {
     "APP_ID": {
@@ -21,6 +20,5 @@
       "description": "The name of the app that will show up in the dashboard.",
       "value": "myAppName"
     }
-  },
-  "image": "heroku/nodejs"
+  }
 }
